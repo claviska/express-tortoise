@@ -7,6 +7,7 @@ Sometimes Express is a bit too fast when you're working locally. Express Tortois
 - Slow down requests using a min/max range
 - Enable/disable based on your environment
 - Optional logging to display the delay duration for each response
+- Small footprint, zero dependencies
 
 ## Installation
 
