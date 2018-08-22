@@ -1,0 +1,30 @@
+{
+  "name": "express-tortoise",
+  "version": "1.0.0",
+  "description": "Express middleware to delay responses in local development environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://claviska@github.com/claviska/express-tortoise.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "response",
+    "delay",
+    "slow"
+  ],
+  "author": "Cory LaViska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claviska/express-tortoise/issues"
+  },
+  "homepage": "https://github.com/claviska/express-tortoise#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.4.0"
+  }
+}
